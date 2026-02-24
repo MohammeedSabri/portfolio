@@ -1,0 +1,59 @@
+{
+    "hero": {
+        "greeting": "MOHAMMED SABRI.",
+        "roles": [
+            "KI- & Data-Science-Ingenieur",
+            "Full-Stack-Ökosystem-Architekt",
+            "Machine-Learning-Forscher"
+        ],
+        "tagline": "Ich entwickle die Architektur der künstlichen Intelligenz.",
+        "cta": "Architektur Entdecken",
+        "secondary_cta": "Kontakt Aufnehmen"
+    },
+    "about": {
+        "title": "Intelligenz Architektur",
+        "quote_1": "DER",
+        "quote_2": "GEIST",
+        "quote_3": "HINTER DER",
+        "quote_4": "MASCHINE.",
+        "manifesto": [
+            "Ich bin KI- und Data-Science-Ingenieur mit Spezialisierung auf mathematische Optimierung und intelligente, datengesteuerte Systeme.",
+            "Durch die Verbindung von fortschrittlichem Machine Learning mit robustem Full-Stack-Engineering entwickle ich Architekturen, die aktiv lernen, schlussfolgern und komplexe Herausforderungen in der Praxis bewältigen.",
+            "Vom Training tiefer neuronaler Netze bis zur Entwicklung skalierbarer Unternehmensökosysteme ist meine Mission klar und absolut:",
+            "Die Grenzen maschineller Intelligenz zu verschieben — und die Zukunft zu architektonieren, ein Modell nach dem anderen."
+        ]
+    },
+    "projects": {
+        "title": "Ausgewählte Ingenieurskunst",
+        "subtitle": "Eine kuratierte Sammlung leistungsstarker KI-Systeme, fortschrittlicher Algorithmen und Full-Stack-Ökosysteme.",
+        "smart_eval": {
+            "title": "Smart Eval Ökosystem",
+            "description": "Ein intelligentes, NLP-gestütztes System zur Bewertung von Bildungsinhalten — komplexe Prüfungsfragen werden präzise in Fachbereiche wie Logik und Algebra klassifiziert und ermöglichen so automatisierte Auswertungen in Echtzeit.",
+            "metrics": "Hochpräzise Klassifikation"
+        },
+        "sign_language": {
+            "title": "KI-Gebärdensprach-Übersetzer",
+            "description": "Ein multimodales Echtzeit-KI-System, das physische Gesten über Computer Vision erfasst und mithilfe fortschrittlicher Transformer- und LSTM-Architekturen in natürlich klingende Sprache übersetzt.",
+            "metrics": "Multimodale Echtzeit-Übersetzung"
+        },
+        "adam_optimizer": {
+            "title": "Adam-Optimizer — Live-Visualisierung",
+            "description": "Ein interaktives, Python-basiertes Lernwerkzeug, das den Adam-Optimierungsalgorithmus in 3D erlebbar macht und komplexe mathematische Konzepte des Gradientenabstiegs anschaulich visualisiert."
+        },
+        "sdid_portal": {
+            "title": "SDID Akademische Architektur",
+            "description": "Ein umfassendes, hochsicheres Full-Stack-Akademieportal — von Grund auf entwickelt mit rollenbasierter Zugriffskontrolle (RBAC), mandantenfähiger Kursverwaltung und isolierten Dateieinreichungs-Pipelines."
+        },
+        "robotic_arm": {
+            "title": "Industrielles Robotersteuerungssystem",
+            "description": "Ein hochpräzises Steuerungsökosystem, das Python-Tkinter-Dashboards mit serieller Arduino-Kommunikation verbindet — für deterministische, latenzfreie Robotermotorsteuerung in Echtzeit."
+        }
+    },
+    "nav": {
+        "about": "Über Mich",
+        "projects": "Projekte",
+        "skills": "Fähigkeiten",
+        "contact": "Kontakt",
+        "cv_button": "Lebenslauf"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "hero": {
+        "greeting": "MOHAMMED SABRI.",
+        "roles": [
+            "Ingénieur IA & Data Science",
+            "Architecte d'Écosystèmes Full-Stack",
+            "Chercheur en Machine Learning"
+        ],
+        "tagline": "Je conçois l'architecture de l'intelligence artificielle.",
+        "cta": "Explorer l'Architecture",
+        "secondary_cta": "Initier le Contact"
+    },
+    "about": {
+        "title": "Architecting Intelligence",
+        "quote_1": "L'ESPRIT",
+        "quote_2": "DERRIÈRE",
+        "quote_3": "LA",
+        "quote_4": "MACHINE.",
+        "manifesto": [
+            "Je suis Ingénieur en Data Science & IA, spécialisé dans l'optimisation mathématique et les systèmes intelligents axés sur les données.",
+            "En fusionnant le Machine Learning avancé avec une ingénierie Full-Stack de haut niveau, je conçois des architectures capables d'apprendre, de raisonner et de résoudre des défis complexes à grande échelle.",
+            "De l'entraînement de réseaux de neurones profonds à la création d'écosystèmes d'entreprise robustes, ma directive est unique et absolue :",
+            "Repousser les limites extrêmes de la capacité des machines et de l'intelligence opérationnelle — et architecturer le futur, un modèle à la fois."
+        ]
+    },
+    "projects": {
+        "title": "Ingénierie Phare",
+        "subtitle": "Une sélection de systèmes d'IA haute performance, d'algorithmes avancés et d'écosystèmes full-stack.",
+        "smart_eval": {
+            "title": "Écosystème Smart Eval",
+            "description": "Un système intelligent alimenté par le NLP qui évalue le contenu éducatif en classifiant avec précision des questions d'examen complexes dans des domaines comme la logique et l'algèbre — permettant une évaluation automatisée à grande échelle.",
+            "metrics": "Classification Haute Précision"
+        },
+        "sign_language": {
+            "title": "Traducteur IA — Langue des Signes",
+            "description": "Un système d'IA multimodal en temps réel qui capture les gestes physiques via la Vision par Ordinateur et les traduit en parole naturelle à l'aide d'architectures Transformers et LSTM avancées.",
+            "metrics": "Traduction Multimodale en Temps Réel"
+        },
+        "adam_optimizer": {
+            "title": "Adam Optimizer — Visualisation Live",
+            "description": "Un outil éducatif interactif en Python qui donne vie à l'algorithme d'optimisation Adam en 3D, rendant accessibles la descente de gradient et les dynamiques de convergence mathématique complexes."
+        },
+        "sdid_portal": {
+            "title": "Architecture Académique SDID",
+            "description": "Un portail de gestion académique full-stack complet et hautement sécurisé, conçu de zéro — avec contrôle d'accès basé sur les rôles (RBAC), gestion multi-tenant des cours et pipelines d'envoi de fichiers isolés."
+        },
+        "robotic_arm": {
+            "title": "Système de Contrôle Robotique Industriel",
+            "description": "Un écosystème de contrôle haute précision reliant des tableaux de bord Python Tkinter à la communication série Arduino pour une manipulation robotique déterministe et sans latence en temps réel."
+        }
+    },
+    "nav": {
+        "about": "À Propos",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "contact": "Contact",
+        "cv_button": "Curriculum Vitae"
+    }
+}

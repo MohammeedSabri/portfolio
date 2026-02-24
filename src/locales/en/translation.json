@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "greeting": "MOHAMMED SABRI.",
+    "roles": [
+      "Data Science & AI Engineer",
+      "Full-Stack Ecosystem Architect",
+      "Machine Learning Researcher"
+    ],
+    "tagline": "Engineering the architecture of artificial intelligence.",
+    "cta": "Explore Architecture",
+    "secondary_cta": "Initiate Contact"
+  },
+  "about": {
+    "title": "Architecting Intelligence",
+    "quote_1": "THE",
+    "quote_2": "MIND",
+    "quote_3": "BEHIND THE",
+    "quote_4": "MACHINE.",
+    "manifesto": [
+      "I am a Data Science & AI Engineer specializing in mathematical optimization and data-driven systems that think.",
+      "Merging advanced machine learning with robust full-stack engineering, I design architectures that actively learn, reason, and resolve complex real-world challenges at scale.",
+      "From training deep neural networks to building enterprise-grade ecosystems, my directive is singular and absolute:",
+      "To push the extreme boundaries of machine capability and operational intelligence — and architect the future, one model at a time."
+    ]
+  },
+  "projects": {
+    "title": "Featured Engineering",
+    "subtitle": "A curated collection of high-performance AI systems, advanced algorithms, and full-stack ecosystems.",
+    "smart_eval": {
+      "title": "Smart Eval Ecosystem",
+      "description": "An intelligent NLP-powered system that evaluates educational content by accurately classifying complex exam questions into domains such as logic and algebra — enabling automated, domain-aware assessment at scale.",
+      "metrics": "High-Accuracy Classification"
+    },
+    "sign_language": {
+      "title": "Sign Language AI Translator",
+      "description": "A real-time multimodal AI system that captures physical gestures via Computer Vision and translates them into natural, human-sounding speech using advanced Transformer and LSTM architectures.",
+      "metrics": "Real-Time Multimodal Translation"
+    },
+    "adam_optimizer": {
+      "title": "Adam Optimizer — Live Visualization",
+      "description": "An interactive, Python-based educational tool that brings the Adam optimization algorithm to life in 3D, demystifying gradient descent and complex mathematical convergence dynamics."
+    },
+    "sdid_portal": {
+      "title": "SDID Academic Architecture",
+      "description": "A comprehensive, highly secure full-stack academic management portal engineered from scratch — featuring Role-Based Access Control (RBAC), multi-tenant course management, and isolated file submission pipelines."
+    },
+    "robotic_arm": {
+      "title": "Industrial Robotic Control System",
+      "description": "A high-precision control ecosystem bridging Python Tkinter dashboards with Arduino serial communication for deterministic, zero-latency real-time robotic motor manipulation."
+    }
+  },
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "cv_button": "Curriculum Vitae"
+  }
+}
